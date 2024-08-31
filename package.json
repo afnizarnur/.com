@@ -52,7 +52,7 @@
 		"split-type": "^0.3.3",
 		"splitting": "^1.0.6",
 		"svg-sprite": "^1.2.19",
-		"webpack": "^5.64.4"
+		"webpack": "^5.94.0"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^2.0.1",
